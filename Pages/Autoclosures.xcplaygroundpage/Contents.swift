@@ -1,6 +1,6 @@
 import UIKit
 /*:
- ## Nice uses case for Autoclusoures [from Swift by Sundell](https://www.swiftbysundell.com/posts/using-autoclosure-when-designing-swift-apis?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_133)
+ ## Nice uses case for Autoclosures [from Swift by Sundell](https://www.swiftbysundell.com/posts/using-autoclosure-when-designing-swift-apis?utm_campaign=This%2BWeek%2Bin%2BSwift&utm_medium=email&utm_source=This_Week_in_Swift_133)
 
  - Using autoclosure in order to defer an execution
  
@@ -26,8 +26,9 @@ func animate(_ animation: @autoclosure @escaping () -> Void, duration: TimeInter
 }
 animate(UIView().frame.origin.y = 100)
 
+
 /*:
- - Type inference using default values
+ - Type inference using default values avoiding casting and ?? operator
  */
 
 let dictionary : [String: Any?] = ["someValue" : nil ]
@@ -45,4 +46,4 @@ extension Dictionary where Value == Any? {
 
 let value = dictionary.value(forKey: "someValue", defaultValue: 100)
 
-
+//: [Next](@next)
