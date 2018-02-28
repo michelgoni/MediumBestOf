@@ -1,0 +1,1898 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2018 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1906,
+  "results": [
+    {
+      "url": "https://www.nytimes.com/2018/01/15/opinion/aziz-ansari-babe-sexual-harassment.html",
+      "adx_keywords": "Ansari, Aziz;#MeToo Movement;Women and Girls;Sexual Harassment;Women's Rights;Sex Crimes",
+      "column": "Opinion",
+      "section": "Opinion",
+      "byline": "By BARI WEISS",
+      "type": "Article",
+      "title": "Aziz Ansari Is Guilty. Of Not Being a Mind Reader.",
+      "abstract": "How did a movement for women’s empowerment become an emblem for female helplessness?",
+      "published_date": "2018-01-15",
+      "source": "The New York Times",
+      "id": 100000005670389,
+      "asset_id": 100000005670389,
+      "views": 1,
+      "des_facet": [
+        "#METOO MOVEMENT",
+        "WOMEN AND GIRLS",
+        "SEXUAL HARASSMENT",
+        "WOMEN'S RIGHTS"
+      ],
+      "org_facet": [
+        "SEX CRIMES"
+      ],
+      "per_facet": [
+        "ANSARI, AZIZ"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Actor Aziz Ansari after winning the Golden Globe for Best Performance by an Actor in a Television Series — Musical or Comedy, this month.",
+          "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/merlin_132309974_871f7d5f-9da5-4340-a5cd-c71f899ce165-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/merlin_132309974_871f7d5f-9da5-4340-a5cd-c71f899ce165-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/merlin_132309974_871f7d5f-9da5-4340-a5cd-c71f899ce165-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/16weiss-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/merlin_132309974_871f7d5f-9da5-4340-a5cd-c71f899ce165-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 679,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/merlin_132309974_871f7d5f-9da5-4340-a5cd-c71f899ce165-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1359,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/merlin_132309974_871f7d5f-9da5-4340-a5cd-c71f899ce165-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/merlin_132309974_871f7d5f-9da5-4340-a5cd-c71f899ce165-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/16weiss-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/opinion/16weiss/16weiss-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2017/12/17/upshot/tax-calculator.html",
+      "adx_keywords": "Federal Taxes (US);Tax Credits, Deductions and Exemptions",
+      "column": "",
+      "section": "The Upshot",
+      "byline": "By ADAM PEARCE, QUOCTRUNG BUI, BEN CASSELMAN and BLACKI MIGLIOZZI",
+      "type": "Interactive",
+      "title": "Tax Bill Calculator: Will Your Taxes Go Up or Down?",
+      "abstract": "This simple calculator describes a range of tax scenarios under the Republican tax plan. Find households like yours in five steps or fewer.",
+      "published_date": "2017-12-17",
+      "source": "The New York Times",
+      "id": 100000005604886,
+      "asset_id": 100000005604886,
+      "views": 2,
+      "des_facet": [
+        "FEDERAL TAXES (US)",
+        "TAX CREDITS, DEDUCTIONS AND EXEMPTIONS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This graphic shows how the Republican tax overhaul would affect many Americans.",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-square320.png",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-articleInline.png",
+              "format": "Normal",
+              "height": 116,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-sfSpan-v2.png",
+              "format": "Large",
+              "height": 264,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-jumbo-v2.gif",
+              "format": "Jumbo",
+              "height": 624,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-superJumbo-v2.gif",
+              "format": "superJumbo",
+              "height": 624,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-square640.png",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-thumbLarge.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/15/upshot/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560/will-your-taxes-go-up-or-down-calculator-for-the-new-tax-plan-republican-1513403957560-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/23/business/media/vice-sexual-harassment.html",
+      "adx_keywords": "Vice Media Inc;Sexual Harassment;Carrot Creative;Smith, Shane (1970- );Creighton, Andrew (1972- );Mojica, Jason;James, Rhys;#MeToo Movement;Workplace Hazards and Violations",
+      "column": null,
+      "section": "Business Day",
+      "byline": "By EMILY STEEL",
+      "type": "Article",
+      "title": "At Vice, Cutting-Edge Media and Allegations of Old-School Sexual Harassment",
+      "abstract": "A media company built on subversion and outlandishness was unable to create “a safe and inclusive workplace” for women, two of its founders acknowledge.",
+      "published_date": "2017-12-23",
+      "source": "The New York Times",
+      "id": 100000005587620,
+      "asset_id": 100000005587620,
+      "views": 3,
+      "des_facet": [
+        "SEXUAL HARASSMENT",
+        "WORKPLACE HAZARDS AND VIOLATIONS"
+      ],
+      "org_facet": [
+        "VICE MEDIA INC",
+        "CARROT CREATIVE",
+        "#METOO MOVEMENT"
+      ],
+      "per_facet": [
+        "SMITH, SHANE (1970- )",
+        "CREIGHTON, ANDREW (1972- )",
+        "MOJICA, JASON",
+        "JAMES, RHYS"
+      ],
+      "geo_facet": "",
+      "media": []
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/11/us/politics/trump-shithole-countries.html",
+      "adx_keywords": "Trump, Donald J;United States Politics and Government;Immigration and Emigration;Norway;Africa;Haiti;United States International Relations;Indecency, Obscenity and Profanity;Discrimination",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By JULIE HIRSCHFELD DAVIS, SHERYL GAY STOLBERG and THOMAS KAPLAN",
+      "type": "Article",
+      "title": "Trump Alarms Lawmakers With Disparaging Words for Haiti and Africa",
+      "abstract": "President Trump demanded to know at a White House meeting why he should accept immigrants from Haiti and African countries rather than people from places like Norway.",
+      "published_date": "2018-01-11",
+      "source": "The New York Times",
+      "id": 100000005661777,
+      "asset_id": 100000005661777,
+      "views": 4,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "IMMIGRATION AND EMIGRATION",
+        "UNITED STATES INTERNATIONAL RELATIONS"
+      ],
+      "org_facet": [
+        "INDECENCY, OBSCENITY AND PROFANITY",
+        "DISCRIMINATION"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "NORWAY",
+        "AFRICA",
+        "HAITI"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump during a meeting in the Roosevelt Room of the White House on Thursday.",
+          "copyright": "Tom Brenner/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/us/politics/12dc-cong1/12dc-cong1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/18/technology/amazon-finalists-headquarters.html",
+      "adx_keywords": "Amazon.com Inc;Relocation of Business;Bezos, Jeffrey P;Tax Credits, Deductions and Exemptions",
+      "column": null,
+      "section": "Technology",
+      "byline": "By NICK WINGFIELD",
+      "type": "Article",
+      "title": "Amazon Chooses 20 Finalists for Second Headquarters",
+      "abstract": "The list released Thursday leaned toward cities in the Midwest and on the East Coast, and away from the tech-saturated hubs of the West Coast.",
+      "published_date": "2018-01-18",
+      "source": "The New York Times",
+      "id": 100000005679570,
+      "asset_id": 100000005679570,
+      "views": 5,
+      "des_facet": "",
+      "org_facet": [
+        "AMAZON.COM INC",
+        "RELOCATION OF BUSINESS",
+        "TAX CREDITS, DEDUCTIONS AND EXEMPTIONS"
+      ],
+      "per_facet": [
+        "BEZOS, JEFFREY P"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Indianapolis made the list of finalists, which favored cities in the Midwest, South and on the East Coast.",
+          "copyright": "Stacy Able for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/19AMAZON03-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/19AMAZON03-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/merlin_132462623_ff8f2842-7793-43a9-b023-15b3b68517f4-articleInline.jpg",
+              "format": "Normal",
+              "height": 126,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/19AMAZON03-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/merlin_132462623_ff8f2842-7793-43a9-b023-15b3b68517f4-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 682,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/merlin_132462623_ff8f2842-7793-43a9-b023-15b3b68517f4-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1363,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/19AMAZON03-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/19AMAZON03-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/19AMAZON03-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/business/19AMAZON03/19AMAZON03-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/04/us/politics/trump-sessions-russia-mcgahn.html",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;Mueller, Robert S III;Special Prosecutors (Independent Counsel);Justice Department;Sessions, Jefferson B III;Federal Bureau of Investigation;Comey, James B;Trump, Donald J;United States Politics and Government",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MICHAEL S. SCHMIDT",
+      "type": "Article",
+      "title": "Obstruction Inquiry Shows Trump’s Struggle to Keep Grip on Russia Investigation",
+      "abstract": "The special counsel’s investigation has uncovered several episodes involving the president that raise questions about whether he obstructed justice.",
+      "published_date": "2018-01-04",
+      "source": "The New York Times",
+      "id": 100000005618397,
+      "asset_id": 100000005618397,
+      "views": 6,
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)",
+        "JUSTICE DEPARTMENT",
+        "FEDERAL BUREAU OF INVESTIGATION"
+      ],
+      "per_facet": [
+        "MUELLER, ROBERT S III",
+        "SESSIONS, JEFFERSON B III",
+        "COMEY, JAMES B",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeff Sessions's recusal from the Russia investigation has been a source of friction with President Trump.",
+          "copyright": "Tom Brenner/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/05dc-obstruct-1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/05dc-obstruct-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/merlin_131321914_d55533c0-dcf7-436e-849e-c90ab32ae6ee-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/merlin_131321914_d55533c0-dcf7-436e-849e-c90ab32ae6ee-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/merlin_131321914_d55533c0-dcf7-436e-849e-c90ab32ae6ee-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/merlin_131321914_d55533c0-dcf7-436e-849e-c90ab32ae6ee-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/05dc-obstruct-1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/05dc-obstruct-1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/merlin_131321914_d55533c0-dcf7-436e-849e-c90ab32ae6ee-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/05/us/politics/05dc-obstruct-1/merlin_131321914_d55533c0-dcf7-436e-849e-c90ab32ae6ee-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/10/movies/tonya-harding-i-tonya-nancy-kerrigan-scandal.html",
+      "adx_keywords": "Harding, Tonya;Figure Skating;Kerrigan, Nancy;Movies;I, Tonya (Movie)",
+      "column": null,
+      "section": "Movies",
+      "byline": "By TAFFY BRODESSER-AKNER",
+      "type": "Article",
+      "title": "Tonya Harding Would Like Her Apology Now",
+      "abstract": "In the movie, “I, Tonya,” the disgraced figure skater looks back on the 1994 Nancy Kerrigan scandal and her struggles to tell her side of the story.",
+      "published_date": "2018-01-10",
+      "source": "The New York Times",
+      "id": 100000005626735,
+      "asset_id": 100000005626735,
+      "views": 7,
+      "des_facet": [
+        "FIGURE SKATING",
+        "MOVIES"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "HARDING, TONYA",
+        "KERRIGAN, NANCY"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "What do we know about her? Tonya Harding, shown at Mountain View Ice Arena in Vancouver, Wash., is back in the spotlight and has a few things she would like to clear up.",
+          "copyright": "Kyle Johnson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-articleInline.jpg",
+              "format": "Normal",
+              "height": 253,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-sfSpan-v4.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 1024,
+              "width": 768
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 2048,
+              "width": 1536
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/12/arts/14TONYAHARDING1/14TONYAHARDING1-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2018/travel/places-to-visit.html",
+      "adx_keywords": "Travel and Vacations",
+      "column": "",
+      "section": "Travel",
+      "byline": "",
+      "type": "Interactive",
+      "title": "52 Places to Go in 2018",
+      "abstract": "A starter kit for escaping into the world.",
+      "published_date": "2018-01-10",
+      "source": "The New York Times",
+      "id": 100000005650925,
+      "asset_id": 100000005650925,
+      "views": 8,
+      "des_facet": [
+        "TRAVEL AND VACATIONS"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-square320-v5.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-thumbStandard-v5.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-articleInline-v3.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-sfSpan-v4.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-jumbo-v6.gif",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-superJumbo-v3.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-square640-v13.gif",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-thumbLarge-v5.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/14/travel/52Places-2018-promo/52Places-2018-promo-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/30/us/politics/how-fbi-russia-investigation-began-george-papadopoulos.html",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;Papadopoulos, George (1987- );Federal Bureau of Investigation;Australia;Trump, Donald J;Cyberwarfare and Defense;Espionage and Intelligence Services;Russia;United States International Relations;United States Politics and Government",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By SHARON LaFRANIERE, MARK MAZZETTI and MATT APUZZO",
+      "type": "Article",
+      "title": "How the Russia Inquiry Began: A Campaign Aide, Drinks and Talk of Political Dirt",
+      "abstract": "George Papadopoulos, a Trump foreign policy adviser, was the improbable match that set off a blaze that has consumed the first year of the Trump administration.",
+      "published_date": "2017-12-30",
+      "source": "The New York Times",
+      "id": 100000005629325,
+      "asset_id": 100000005629325,
+      "views": 9,
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "CYBERWARFARE AND DEFENSE",
+        "UNITED STATES INTERNATIONAL RELATIONS"
+      ],
+      "org_facet": [
+        "FEDERAL BUREAU OF INVESTIGATION",
+        "ESPIONAGE AND INTELLIGENCE SERVICES",
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "per_facet": [
+        "PAPADOPOULOS, GEORGE (1987- )",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "AUSTRALIA",
+        "RUSSIA"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "George Papadopoulos was working as an energy consultant in London when the Trump campaign named him a foreign policy adviser in early March 2016.",
+          "copyright": "via Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/31dc-investigate1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/31dc-investigate1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/merlin_129497372_bf04b35f-e889-4853-9fae-c3182b845d3c-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/merlin_129497372_bf04b35f-e889-4853-9fae-c3182b845d3c-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/merlin_129497372_bf04b35f-e889-4853-9fae-c3182b845d3c-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/merlin_129497372_bf04b35f-e889-4853-9fae-c3182b845d3c-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/31dc-investigate1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/31dc-investigate1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/31dc-investigate1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/31/us/politics/31dc-investigate1/31dc-investigate1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/15/obituaries/dolores-oriordan-dead.html",
+      "adx_keywords": "O'Riordan, Dolores;Cranberries, The (Music Group);Deaths (Obituaries);Pop and Rock Music",
+      "column": null,
+      "section": "Obituaries",
+      "byline": "By CHRISTINE HAUSER",
+      "type": "Article",
+      "title": "Dolores O’Riordan, Lead Singer of the Cranberries, Dies at 46",
+      "abstract": "Ms. O’Riordan’s voice, high and breathy but more determined than fragile, lent an unmistakable sound to songs like the hits “Linger” and “Zombie.”",
+      "published_date": "2018-01-15",
+      "source": "The New York Times",
+      "id": 100000005672801,
+      "asset_id": 100000005672801,
+      "views": 10,
+      "des_facet": [
+        "DEATHS (OBITUARIES)",
+        "POP AND ROCK MUSIC"
+      ],
+      "org_facet": [
+        "CRANBERRIES, THE (MUSIC GROUP)"
+      ],
+      "per_facet": [
+        "O'RIORDAN, DOLORES"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Dolores O’Riordan, the lead singer of the Cranberries, performing in Dublin in 2000. The headiness of young female angst was central to the band.",
+          "copyright": "Ferran Paredes/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/17oriordan-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/17oriordan-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/merlin_132326597_e83df9e6-ab81-4509-803d-d3b5f880a15b-articleInline.jpg",
+              "format": "Normal",
+              "height": 128,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/17oriordan-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/merlin_132326597_e83df9e6-ab81-4509-803d-d3b5f880a15b-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 690,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/merlin_132326597_e83df9e6-ab81-4509-803d-d3b5f880a15b-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1380,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/17oriordan-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/17oriordan-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/17oriordan-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/world/17oriordan/17oriordan-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/24/us/teen-murder-racist-virginia.html",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Reston (Va);Anti-Semitism;Discrimination;Kuhn-Fricker, Buckley (1974-2017);Fricker, Scott (1969-2017)",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By JACEY FORTIN",
+      "type": "Article",
+      "title": "Parents Killed After Warning Daughter About Boyfriend’s Racist Views, Family Says",
+      "abstract": "The 17-year-old gunman, who was dating the couple’s daughter, had posted white supremacist and Nazi content on social media, according to the family and news reports.",
+      "published_date": "2017-12-24",
+      "source": "The New York Times",
+      "id": 100000005622010,
+      "asset_id": 100000005622010,
+      "views": 11,
+      "des_facet": [
+        "MURDERS, ATTEMPTED MURDERS AND HOMICIDES",
+        "DISCRIMINATION"
+      ],
+      "org_facet": [
+        "ANTI-SEMITISM"
+      ],
+      "per_facet": [
+        "KUHN-FRICKER, BUCKLEY (1974-2017)",
+        "FRICKER, SCOTT (1969-2017)"
+      ],
+      "geo_facet": [
+        "RESTON (VA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A Facebook photo of Scott Fricker and Buckley Kuhn-Fricker. They were fatally shot in their home in Reston, Va., on Friday.",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-articleInline.jpg",
+              "format": "Normal",
+              "height": 137,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 736,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 863,
+              "width": 1200
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/25/us/25xp-virginia/25xp-virginia-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/06/us/politics/trump-genius-mental-health.html",
+      "adx_keywords": "Trump, Donald J;United States Politics and Government;Mental Health and Disorders;Psychiatry and Psychiatrists;Fire and Fury: Inside the Trump White House (Book);Books and Literature;Wolff, Michael (1953- )",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By PETER BAKER and MAGGIE HABERMAN",
+      "type": "Article",
+      "title": "Trump, Defending His Mental Fitness, Says He’s a ‘Very Stable Genius’",
+      "abstract": "Mr. Trump, seeming to respond to revelations in a new book, issued an extraordinary defense of his fitness for office.",
+      "published_date": "2018-01-06",
+      "source": "The New York Times",
+      "id": 100000005647816,
+      "asset_id": 100000005647816,
+      "views": 12,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "MENTAL HEALTH AND DISORDERS",
+        "PSYCHIATRY AND PSYCHIATRISTS",
+        "BOOKS AND LITERATURE"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "WOLFF, MICHAEL (1953- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump this week at the White House.",
+          "copyright": "Tom Brenner/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-square320-v3.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-sfSpan-v2.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-jumbo-v2.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-superJumbo-v2.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-square640-v3.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/07/us/politics/07dc-trump-sub/07dc-trump-sub-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/17/opinion/aziz-ansari-metoo-sex.html",
+      "adx_keywords": "Ansari, Aziz;Women and Girls;Women's Rights;Dating and Relationships",
+      "column": "Contributing Op-Ed Writer",
+      "section": "Opinion",
+      "byline": "By LINDY WEST",
+      "type": "Article",
+      "title": "Aziz, We Tried to Warn You",
+      "abstract": "It may seem like rules around sex have changed overnight, but feminists have been talking about this for a long time.",
+      "published_date": "2018-01-17",
+      "source": "The New York Times",
+      "id": 100000005678726,
+      "asset_id": 100000005678726,
+      "views": 13,
+      "des_facet": [
+        "WOMEN AND GIRLS"
+      ],
+      "org_facet": [
+        "WOMEN'S RIGHTS",
+        "DATING AND RELATIONSHIPS"
+      ],
+      "per_facet": [
+        "ANSARI, AZIZ"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Aziz Ansari in New York last year.",
+          "copyright": "Kathy Lo for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-articleInline-v2.jpg",
+              "format": "Normal",
+              "height": 148,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-jumbo-v2.jpg",
+              "format": "Jumbo",
+              "height": 796,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-superJumbo-v2.jpg",
+              "format": "superJumbo",
+              "height": 1593,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-thumbLarge-v2.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/17/opinion/17westWeb/17westWeb-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/16/us/politics/steve-bannon-mueller-russia-subpoena.html",
+      "adx_keywords": "United States Politics and Government;Russian Interference in 2016 US Elections and Ties to Trump Associates;Bannon, Stephen K;Mueller, Robert S III;Trump, Donald J;Fire and Fury: Inside the Trump White House (Book)",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MICHAEL S. SCHMIDT",
+      "type": "Article",
+      "title": "Bannon Is Subpoenaed in Mueller’s Russia Investigation",
+      "abstract": "The move marks the first time the special counsel is known to have used a grand jury subpoena to seek information from a member of President Trump’s inner circle.",
+      "published_date": "2018-01-16",
+      "source": "The New York Times",
+      "id": 100000005670139,
+      "asset_id": 100000005670139,
+      "views": 14,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "BANNON, STEPHEN K",
+        "MUELLER, ROBERT S III",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephen K. Bannon arrived to testify before the House Intelligence Committee during a closed-door session on Tuesday.",
+          "copyright": "Joshua Roberts/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1366,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/18/us/politics/17dc-bannon/17dc-bannon-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/12/us/trump-stephanie-clifford-stormy-daniels.html",
+      "adx_keywords": "Clifford, Stephanie (1979- );Trump, Donald J;United States Politics and Government;Bribery and Kickbacks;Adultery;Pornography;Actors and Actresses;Wall Street Journal",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MEGAN TWOHEY and JIM RUTENBERG",
+      "type": "Article",
+      "title": "Porn Star Was Reportedly Paid to Stay Quiet About Trump",
+      "abstract": "The reported $130,000 payment was made shortly before the election. Mr. Trump “vehemently denies” the encounter happened, his lawyer said.",
+      "published_date": "2018-01-12",
+      "source": "The New York Times",
+      "id": 100000005664960,
+      "asset_id": 100000005664960,
+      "views": 15,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "BRIBERY AND KICKBACKS",
+        "ADULTERY",
+        "PORNOGRAPHY",
+        "ACTORS AND ACTRESSES"
+      ],
+      "org_facet": [
+        "WALL STREET JOURNAL"
+      ],
+      "per_facet": [
+        "CLIFFORD, STEPHANIE (1979- )",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Stephanie Clifford at a Trump Vodka launch party in 2008.",
+          "copyright": "Chad Buchanan/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-square320-v3.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-articleInline-v4.jpg",
+              "format": "Normal",
+              "height": 156,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-sfSpan-v3.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-jumbo-v4.jpg",
+              "format": "Jumbo",
+              "height": 840,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-superJumbo-v4.jpg",
+              "format": "superJumbo",
+              "height": 1680,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-square640-v3.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-thumbLarge-v3.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/13/us/13xp-Stormy-sub/13xp-Stormy-sub-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/19/us/politics/government-shutdown.html",
+      "adx_keywords": "Trump, Donald J;United States Politics and Government;Shutdowns (Institutional);Democratic Party;Senate;Republican Party",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By THE NEW YORK TIMES",
+      "type": "Article",
+      "title": "Government Shuts Down as Bill to Extend Funding Is Blocked; Senate Adjourns for the Night",
+      "abstract": "The government shut down at midnight after lawmakers failed to reach an agreement on a spending bill in time.",
+      "published_date": "2018-01-19",
+      "source": "The New York Times",
+      "id": 100000005686331,
+      "asset_id": 100000005686331,
+      "views": 16,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "SHUTDOWNS (INSTITUTIONAL)"
+      ],
+      "org_facet": [
+        "DEMOCRATIC PARTY",
+        "SENATE",
+        "REPUBLICAN PARTY"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Chuck Schumer of New York, the Democratic leader, returned to the Capitol on Friday after meeting with President Trump.",
+          "copyright": "Erin Schaff for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/20dc-shutdown4-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/20dc-shutdown4-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/merlin_132532067_6ce6a59d-d049-498d-9e18-776acc4d5da9-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/merlin_132532067_6ce6a59d-d049-498d-9e18-776acc4d5da9-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/merlin_132532067_6ce6a59d-d049-498d-9e18-776acc4d5da9-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/merlin_132532067_6ce6a59d-d049-498d-9e18-776acc4d5da9-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/20dc-shutdown4-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/20dc-shutdown4-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/20dc-shutdown4-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/20/us/politics/20dc-shutdown-briefing-4/20dc-shutdown4-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/interactive/2018/01/19/us/politics/live-senate-vote-government-shutdown.html",
+      "adx_keywords": "Senate;United States Politics and Government",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By JASMINE C. LEE and SARA SIMON",
+      "type": "Interactive",
+      "title": "How Every Senator Voted on the Government Shutdown",
+      "abstract": "Democrats blocked a spending bill in the Senate on Friday night.",
+      "published_date": "2018-01-19",
+      "source": "The New York Times",
+      "id": 100000005687093,
+      "asset_id": 100000005687093,
+      "views": 17,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT"
+      ],
+      "org_facet": [
+        "SENATE"
+      ],
+      "per_facet": "",
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Brendan Smialowski/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/us/politics/live-senate-vote-government-shutdown-1516382371302/live-senate-vote-government-shutdown-1516382371302-thumbStandard-v3.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/us/politics/live-senate-vote-government-shutdown-1516382371302/live-senate-vote-government-shutdown-1516382371302-articleInline-v2.png",
+              "format": "Normal",
+              "height": 97,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/us/politics/live-senate-vote-government-shutdown-1516382371302/live-senate-vote-government-shutdown-1516382371302-sfSpan-v3.png",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/us/politics/live-senate-vote-government-shutdown-1516382371302/live-senate-vote-government-shutdown-1516382371302-jumbo-v2.png",
+              "format": "Jumbo",
+              "height": 522,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/us/politics/live-senate-vote-government-shutdown-1516382371302/live-senate-vote-government-shutdown-1516382371302-superJumbo-v2.png",
+              "format": "superJumbo",
+              "height": 878,
+              "width": 1724
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/us/politics/live-senate-vote-government-shutdown-1516382371302/live-senate-vote-government-shutdown-1516382371302-thumbLarge-v3.png",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/us/politics/live-senate-vote-government-shutdown-1516382371302/live-senate-vote-government-shutdown-1516382371302-mediumThreeByTwo210-v3.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/19/us/politics/live-senate-vote-government-shutdown-1516382371302/live-senate-vote-government-shutdown-1516382371302-mediumThreeByTwo440-v3.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2017/12/23/us/politics/trump-immigration.html",
+      "adx_keywords": "Trump, Donald J;United States Politics and Government;Immigration and Emigration;Illegal Immigration;Deferred Action for Childhood Arrivals;Homeland Security Department;Kelly, John F (1950- );Miller, Stephen (1985- );Executive Orders and Memorandums;Border Barriers;Dream Act (Development, Relief and Education for Minors Act)",
+      "column": "Trump’s Way",
+      "section": "U.S.",
+      "byline": "By MICHAEL D. SHEAR and JULIE HIRSCHFELD DAVIS",
+      "type": "Article",
+      "title": "Stoking Fears, Trump Defied Bureaucracy to Advance Immigration Agenda",
+      "abstract": "The changes have had far-reaching consequences, both for the immigrants who have sought to make a new home in this country and for America’s image in the world.",
+      "published_date": "2017-12-23",
+      "source": "The New York Times",
+      "id": 100000005541792,
+      "asset_id": 100000005541792,
+      "views": 18,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "IMMIGRATION AND EMIGRATION",
+        "ILLEGAL IMMIGRATION",
+        "EXECUTIVE ORDERS AND MEMORANDUMS"
+      ],
+      "org_facet": [
+        "DEFERRED ACTION FOR CHILDHOOD ARRIVALS",
+        "HOMELAND SECURITY DEPARTMENT",
+        "BORDER BARRIERS",
+        "DREAM ACT (DEVELOPMENT, RELIEF AND EDUCATION FOR MINORS ACT)"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "KELLY, JOHN F (1950- )",
+        "MILLER, STEPHEN (1985- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Trump at the White House in July. His visceral approach to immigration defined his campaign and has shaped the first year of his presidency.",
+          "copyright": "Gabriella Demczuk for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-square320.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-articleInline.jpg",
+              "format": "Normal",
+              "height": 120,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 648,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1295,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-square640.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2017/12/20/us/24dc-immigration1/00dc-immigration1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/15/us/siblings-captive-california.html",
+      "adx_keywords": "Child Abuse and Neglect;Turpin, David Allen;Turpin, Louise Anna;Perris (Calif);Riverside County (Calif)",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By MATTHEW HAAG and LOUIS KEENE",
+      "type": "Article",
+      "title": "13 Siblings, Some Shackled to Beds, Were Held Captive by Parents, Police in California Say",
+      "abstract": "A 17-year-old girl escaped from her home in Riverside County, Calif., to report that her parents were holding their children against their will.",
+      "published_date": "2018-01-15",
+      "source": "The New York Times",
+      "id": 100000005673508,
+      "asset_id": 100000005673508,
+      "views": 19,
+      "des_facet": [
+        "CHILD ABUSE AND NEGLECT"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "TURPIN, DAVID ALLEN",
+        "TURPIN, LOUISE ANNA"
+      ],
+      "geo_facet": [
+        "PERRIS (CALIF)",
+        "RIVERSIDE COUNTY (CALIF)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Louise Anna Turpin, left, and David Allen Turpin",
+          "copyright": "Riverside County Sheriff's Department",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-square320-v2.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-articleInline.jpg",
+              "format": "Normal",
+              "height": 127,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 683,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1365,
+              "width": 2048
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-square640-v3.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-thumbLarge.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/16/us/16xp-captive1/16xp-captive1-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "https://www.nytimes.com/2018/01/02/opinion/republicans-investigation-fusion-gps.html",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government;Special Prosecutors (Independent Counsel);Steele, Christopher (1964- );Presidential Election of 2016;BuzzFeed Inc;Fusion GPS",
+      "column": "Op-Ed Contributors",
+      "section": "Opinion",
+      "byline": "By GLENN R. SIMPSON and PETER FRITSCH",
+      "type": "Article",
+      "title": "The Republicans’ Fake Investigations",
+      "abstract": "The attack on our firm, Fusion GPS, is a diversionary tactic by Republicans who don’t want to investigate Donald Trump’s ties to Russia.",
+      "published_date": "2018-01-02",
+      "source": "The New York Times",
+      "id": 100000005638110,
+      "asset_id": 100000005638110,
+      "views": 20,
+      "des_facet": [
+        "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "SPECIAL PROSECUTORS (INDEPENDENT COUNSEL)"
+      ],
+      "org_facet": [
+        "PRESIDENTIAL ELECTION OF 2016",
+        "BUZZFEED INC",
+        "FUSION GPS"
+      ],
+      "per_facet": [
+        "STEELE, CHRISTOPHER (1964- )"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Harry Campbell",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-square320-v7.jpg",
+              "format": "square320",
+              "height": 320,
+              "width": 320
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-thumbStandard-v9.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-articleInline.jpg",
+              "format": "Normal",
+              "height": 185,
+              "width": 190
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-sfSpan.jpg",
+              "format": "Large",
+              "height": 263,
+              "width": 395
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-jumbo.jpg",
+              "format": "Jumbo",
+              "height": 994,
+              "width": 1024
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-superJumbo.jpg",
+              "format": "superJumbo",
+              "height": 1247,
+              "width": 1284
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-square640-v7.jpg",
+              "format": "square640",
+              "height": 640,
+              "width": 640
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-thumbLarge-v9.jpg",
+              "format": "Large Thumbnail",
+              "height": 150,
+              "width": 150
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2018/01/03/opinion/03Simpson/03Simpson-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,4 @@
 //: [Previous](@previous)
-
 import Foundation
 import UIKit
 /*:
@@ -29,6 +28,44 @@ extension SearchViewController: UISearchBarDelegate {
                                       execute: requestWorkItem)
     }
 }
+/*:
+ - Defer instead DispatchGroup: Perform a group of operations before moving on with some task
+ 
+*/
+struct Results: Decodable {
+    
+    var results: [News]
+}
 
+struct News: Decodable {
+    
+    var url: String
+    var title: String
+    var abstract: String
+}
+
+func reloadUI (_ titles: [String]) {
+    
+    for title in titles {
+        print("reloading my UI with title: \(title)")
+    }
+}
+
+loadfromJson: do {
+    
+    let decoder = JSONDecoder()
+    guard let url = Bundle.main.url(forResource: "document", withExtension: "json") else { break loadfromJson}
+    guard let contents = try? Data(contentsOf: url) else {break loadfromJson}
+    guard let decoded = try? decoder.decode(Results.self, from: contents) else { break loadfromJson}
+    var arrayTitle = [String]()
+    
+    for new in decoded.results {
+       
+        arrayTitle.append(new.title)
+    }
+    defer {
+        reloadUI(arrayTitle)
+    }
+}
 
 //: [Next](@next)
