@@ -3,5 +3,6 @@
     <pages>
         <page name='Autoclosures'/>
         <page name='Dispatch'/>
+        <page name='Optional'/>
     </pages>
 </playground>
