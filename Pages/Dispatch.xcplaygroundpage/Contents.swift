@@ -1,6 +1,7 @@
 //: [Previous](@previous)
 import Foundation
 import UIKit
+import PlaygroundSupport
 /*:
  ## GCD with steroids [from Swift by Sundell](https://www.swiftbysundell.com/posts/a-deep-dive-into-grand-central-dispatch-in-swift)
  
@@ -46,15 +47,13 @@ struct News: Decodable {
 
 func reloadUI (_ titles: [String]) {
     
-    
     for title in titles {
         print("reloading my UI with title: \(title)")
     }
 }
 
+var arrayTitle = [String]()
 loadfromJson: do {
-    
-    var arrayTitle = [String]()
     
     defer {
         reloadUI(arrayTitle)
@@ -70,7 +69,30 @@ loadfromJson: do {
        
         arrayTitle.append(new.title)
     }
-    
 }
 
+/*:
+ - Using a DispatchSemaphore based on this article by [Federico Zanetello](https://medium.com/swiftly-swift/a-quick-look-at-semaphores-6b7b85233ddb)
+ 
+*/
+
+let higherPriority = DispatchQueue.global(qos: .userInitiated)
+let lowerPriority = DispatchQueue.global(qos: .utility)
+let semaphore = DispatchSemaphore(value: 1)
+
+func asyncPrint(queue: DispatchQueue, symbol: String) {
+
+    queue.async {
+        print("\(symbol) waiting to bring some titles from queue with\(queue.qos.qosClass) identifier")
+        semaphore.wait()
+        for title in arrayTitle {
+            print(symbol,title)
+        }
+        print("\(symbol) checking out!")
+        semaphore.signal() // releasing the resource
+    }
+}
+PlaygroundPage.current.needsIndefiniteExecution = true
+asyncPrint(queue: higherPriority, symbol: "🔴")
+asyncPrint(queue: lowerPriority, symbol: "🔵")
 //: [Next](@next)
