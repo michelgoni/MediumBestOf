@@ -4,5 +4,6 @@
         <page name='Autoclosures'/>
         <page name='Dispatch'/>
         <page name='Optional'/>
+        <page name='Generics'/>
     </pages>
 </playground>
