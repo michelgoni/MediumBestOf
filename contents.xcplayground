@@ -6,5 +6,6 @@
         <page name='Optional'/>
         <page name='Generics'/>
         <page name='UIComponentsInPlayGround'/>
+        <page name='Dependency Injection'/>
     </pages>
 </playground>
