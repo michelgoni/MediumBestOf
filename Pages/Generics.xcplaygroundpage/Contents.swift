@@ -34,6 +34,18 @@ printGenericElement(value: genericMembersOne.arrayOfMembers)
  
  */
 
+/*:
+ 
+ - Generic type constrains [by Swift by Sundell](https://www.swiftbysundell.com/posts/using-generic-type-constraints-in-swift-4)
+ 
+ */
+
+extension Array where Element: Numeric {
+    func sum() -> Element {
+        return reduce(0, +)
+    }
+}
+
 extension Members {
     
     var firstElement: T? {
@@ -55,6 +67,7 @@ genericMembersOne.firstElement
  */
 
 protocol FamilyProtocol {
+    
     associatedtype familyType
     var familyMembers: [familyType] {get set}
 }
@@ -64,7 +77,13 @@ struct FernandezFamily<T>: FamilyProtocol {
     var familyMembers: [T] = []
 }
 
+struct GonzalezFamily: FamilyProtocol {
+    
+   typealias familyType = String
+    var familyMembers: [String]
+}
+
 let fernandez = FernandezFamily(familyMembers: ["Yo", "Luis", 90.9, 2])
-fernandez.familyMembers
+let gonzalez = GonzalezFamily(familyMembers: ["Luis", "luisa"])
 
 //: [Next](@next)
