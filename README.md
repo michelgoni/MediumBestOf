@@ -7,3 +7,4 @@ Hands on with some nice Medium articles dealing with aspects, curiosities and hi
 * **GCD: Semaphores, DispatchWorkItem**
 * **OperationQueue: performing requests in parallel**
 * **Optionals: handling nil and "" in String?**
+* **Generic: struct extension using generics and generics with protocols**
