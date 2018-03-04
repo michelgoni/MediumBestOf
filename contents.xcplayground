@@ -7,5 +7,6 @@
         <page name='Generics'/>
         <page name='UIComponentsInPlayGround'/>
         <page name='Dependency Injection'/>
+        <page name='Local Reasoning'/>
     </pages>
 </playground>
