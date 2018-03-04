@@ -36,4 +36,21 @@ class MyButton: UIButton {
 
  let button = MyButton()
 button.action = {print("Button pressed")}
+
+/*:
+ ##
+ 
+ - Using lazy closures can be a great reading improvement as well.
+ 
+ */
+class MyView: UIView {
+    lazy var myCustomView: UIView = {
+        let view = UIView()
+        view.backgroundColor = UIColor.blue
+        view.layer.cornerRadius = self.myCustomView.bounds.width / 2
+        return view
+    }()
+}
+
+
 //: [Next](@next)
