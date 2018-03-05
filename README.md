@@ -10,3 +10,5 @@ Hands on with some nice Medium articles dealing with aspects, curiosities and hi
 * **Generic: struct extension using generics and generics with protocols**
 * **Playgrounds: animations live rendering**
 * **Dependeny Injection: using the cake pattern**
+* **Local reasoning: improving swift readibility**
+* **Create a generic networking API based on protocols and codable**
