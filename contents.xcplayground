@@ -8,5 +8,6 @@
         <page name='UIComponentsInPlayGround'/>
         <page name='Dependency Injection'/>
         <page name='Local Reasoning'/>
+        <page name='Protocol Based Generic Networking'/>
     </pages>
 </playground>
