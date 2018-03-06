@@ -1,6 +1,8 @@
 //: [Previous](@previous)
 
 import Foundation
+import XCPlayground
+XCPlaygroundPage.currentPage.needsIndefiniteExecution = true
 
 /*:
  ## Protocol Based Generic Networking using JSONDecoder and Decodable [by James Rochabrun](https://medium.com/@jamesrochabrun/protocol-based-generic-networking-using-jsondecoder-and-decodable-in-swift-4-fc9e889e8081)
@@ -19,18 +21,51 @@ struct News: Decodable {
     var url: String
     var title: String
     var abstract: String
+    var byline: String
+    var newId: Int
     var media: [Media]?
+    
+    enum CodingKeys: String, CodingKey {
+        
+        case media = "media"
+        case newId = "asset_id"
+        case url, title, abstract, byline
+        
+    }
+    enum MyError: Error {
+        case FoundNil(String)
+    }
+    init(from decoder: Decoder) throws {
+        
+        let values = try decoder.container(keyedBy: CodingKeys.self)
+        url = try values.decode(String.self, forKey: .url)
+        title = try values.decode(String.self, forKey: .title)
+        abstract = try values.decode(String.self, forKey: .abstract)
+        byline = try values.decode(String.self, forKey: .byline)
+        newId = try values.decode(Int.self, forKey: .newId)
+        
+        if let mediaUnwrapped = try? values.decodeIfPresent([Media].self, forKey: .media) {
+            self.media = mediaUnwrapped
+            
+        }else{
+            print("no media")
+            media = nil
+        }
+    }
 }
 
 struct Media: Decodable {
+    
+    
+    var mediametadata: [MediaMetadata]
     var copyright: String
-    var mediametadata: [MediaMetadata]?
     
     enum CodingKeys: String, CodingKey {
         
         case mediametadata = "media-metadata"
         case copyright = "copyright"
     }
+    
 }
 
 struct MediaMetadata: Decodable  {
@@ -150,7 +185,7 @@ extension ApiClient {
     func fetch<T: Decodable>(with request: URLRequest, decode: @escaping (Decodable) -> T?, completion: @escaping (Result<T, ApiError>) -> Void) {
         
         let task = decodingTask(with: request, decodingType: T.self) { (json , error) in
-          
+            
             DispatchQueue.main.async {
                 guard let json = json else {
                     if let error = error {
@@ -191,11 +226,11 @@ extension NewsApiClient: ApiClient {
         
         let endpoint = newsFeedType
         let request = endpoint.request
-      
+        
         
         fetch(with: request, decode: { json -> Results? in
             guard let newsResult = json as? Results else { return  nil }
-           
+            
             return newsResult
         }, completion: completion)
         
@@ -212,9 +247,9 @@ client.getFeed(from: .mostViewed) { result  in
     case .failure(let error):
         print(error)
         
-   
+        
     }
-    print(result)
+   
 }
 
 
