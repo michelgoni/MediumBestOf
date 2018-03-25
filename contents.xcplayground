@@ -9,5 +9,6 @@
         <page name='Dependency Injection'/>
         <page name='Local Reasoning'/>
         <page name='Protocol Based Generic Networking'/>
+        <page name='Tuples'/>
     </pages>
 </playground>
