@@ -12,3 +12,6 @@ Hands on with some nice Medium articles dealing with aspects, curiosities and hi
 * **Dependeny Injection: using the cake pattern**
 * **Local reasoning: improving swift readibility**
 * **Create a generic networking API based on protocols and codable**
+* **Tuples interesting features**
+* **Swift hidden features**
+* **Design patterns in Swift**
