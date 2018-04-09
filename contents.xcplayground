@@ -10,5 +10,7 @@
         <page name='Local Reasoning'/>
         <page name='Protocol Based Generic Networking'/>
         <page name='Tuples'/>
+        <page name='Swift Hidden Features'/>
+        <page name='DesignPatterns'/>
     </pages>
 </playground>
