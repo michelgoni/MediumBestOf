@@ -60,6 +60,11 @@ extension Members {
 }
 genericMembersOne.firstElement
 
+/*:
+ 
+ - Generic type constrains [by Martin](https://medium.com/mrtnrst/more-on-swift-generics-4f7d1d327c8e)
+ 
+ */
 let arr: [Any] = [1,2,3,"String"]
 protocol constrictor{ }
 extension String: constrictor{ }
