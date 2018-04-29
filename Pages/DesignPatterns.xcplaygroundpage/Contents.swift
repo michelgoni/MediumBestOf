@@ -1,6 +1,7 @@
 //: [Previous](@previous)
 
 import Foundation
+import UIKit
 
 /*:
  ## A Collection of Swift Design Patterns [by Oktawian Chojnacki](https://github.com/ochococo/Design-Patterns-In-Swift)
@@ -51,6 +52,30 @@ let favouriteRestaurantBuilder = RestaurantBuilder { restaurant in
 if let restaurant = Restaurant(builder: favouriteRestaurantBuilder) {
     print(restaurant.description)
 }
+
+protocol Shareable {
+    func share(url: String)
+}
+
+extension Shareable where Self: UIViewController {
+    func share(url: String) {
+        if let url = URL(string: url) {
+            print(url)
+        }
+    }
+}
+
+class ViewController: UIViewController, Shareable {
+    func shareButtonPressed() {
+        let url = "http://yayoc.com"
+        share(url: url)
+        
+    }
+}
+
+let myVC = ViewController()
+myVC.shareButtonPressed()
+
 
 
 //: [Next](@next)
