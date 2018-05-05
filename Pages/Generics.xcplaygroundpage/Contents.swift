@@ -71,7 +71,7 @@ extension String: constrictor{ }
 extension Int: constrictor{ }
 
  func firstIn<T>(_ array: [Any], ofType: T.Type) -> T? where T: constrictor {
-    return return array.lazy.flatMap({ $0 as? T }).first
+    return  array.lazy.flatMap({ $0 as? T }).first
 }
 print(firstIn(arr, ofType: Int.self))
 

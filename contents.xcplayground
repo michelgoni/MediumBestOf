@@ -12,5 +12,6 @@
         <page name='Tuples'/>
         <page name='Swift Hidden Features'/>
         <page name='DesignPatterns'/>
+        <page name='PoPvsSubclass'/>
     </pages>
 </playground>
