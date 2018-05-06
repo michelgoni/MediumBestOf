@@ -22,9 +22,10 @@ extension Shareable where Self: UIViewController {
         }
     }
     func showAlert(message: String) {
-        let alert = UIAlertController(title: "error".localized, message: message, preferredStyle: .alert)
+        let alert = UIAlertController(title: "error", message: message, preferredStyle: .alert)
         alert.addAction(UIAlertAction(title: "dialogconfirm", style: .default, handler: nil))
         present(alert, animated: true, completion: nil)
+        print(message)
     }
 }
 
@@ -34,14 +35,14 @@ class ViewController: UIViewController, Shareable {
         share(url: url)
     }
     
-    func showAlertFmMainVC(){
-        showAlert(message: "This is a cutom mesage")
+    func showAlertFmMainVC(message: String){
+        showAlert(message: message)
     }
 }
 
 let myVC = ViewController()
 myVC.shareButtonPressed()
-myVC.showAlertFmMainVC()
+myVC.showAlert(message: "this is a custom message")
 
 
 //: [Next](@next)
