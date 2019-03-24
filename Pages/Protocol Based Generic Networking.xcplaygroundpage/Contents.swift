@@ -87,7 +87,7 @@ protocol Endpoint {
 
 extension Endpoint {
     var apiKey: String {
-        return "api-key=32534511931e4dc1b5627b6918ca0d6b"
+        return "api-key=2bB0BGGe2pysadVQorASzqyClBzI5w1G"
     }
     
     var urlComponents: URLComponents {

@@ -9,9 +9,9 @@
         <page name='Dependency Injection'/>
         <page name='Local Reasoning'/>
         <page name='Protocol Based Generic Networking'/>
-        <page name='Tuples'/>
         <page name='Swift Hidden Features'/>
         <page name='DesignPatterns'/>
         <page name='PoPvsSubclass'/>
+        <page name='Init better syntax'/>
     </pages>
 </playground>
